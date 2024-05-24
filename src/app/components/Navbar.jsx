@@ -47,9 +47,9 @@ export default function Navbar() {
         </button>
       </div>
 
-      <div className={`flex-col md:flex-row md:flex md:gap-8 ${isOpen ? 'flex' : 'hidden'} md:items-center`}>
+      <div className={`flex-col md:flex-row md:flex md:gap-8 ${isOpen ? 'flex z-10 absolute top-5 right-0' : 'hidden'} md:items-center`}>
         <ul className="flex flex-col md:flex-row md:items-center gap-4 md:gap-8">
-          <li className="md:group">
+          <li className="lg:group md:visible">
             <a href="/" className="flex items-center">
               Find designers
               <svg
@@ -67,7 +67,7 @@ export default function Navbar() {
                 ></path>
               </svg>
             </a>
-            <ul className="hidden group-hover:flex absolute flex-col mt-1 p-4 bg-white rounded-xl text-base text-gray-500">
+            <ul className="hidden md:flex group-hover:flex absolute flex-col mt-1 p-4 bg-white rounded-xl text-base text-gray-500">
               <li>
                 <a className="flex flex-col font-semibold" href="/">
                   Designers Search
