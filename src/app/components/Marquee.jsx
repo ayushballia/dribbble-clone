@@ -1,3 +1,4 @@
+"use-client"
 const Marquee = ({ children }) => {
     return (
         <div className="relative overflow-hidden whitespace-nowrap">

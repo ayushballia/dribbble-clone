@@ -10,5 +10,5 @@
 .animate-marquee {
     display: flex;
     white-space: nowrap;
-    animation: marquee 50s linear infinite;
+    animation: marquee 80s linear infinite;
 }
