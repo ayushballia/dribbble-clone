@@ -1,78 +1,78 @@
 export const teamMembers = [
     {
-        image: 'https://img.freepik.com/free-photo/portrait-young-woman-with-natural-make-up_23-2149084942.jpg', 
+        image: 'cld-sample', 
         name: 'John Doe',
         position: 'Software Engineer',
         skills: ['JavaScript', 'React', 'Node.js']
     },
     {
-        image: 'https://img.freepik.com/free-photo/portrait-young-woman-with-natural-make-up_23-2149084942.jpg', 
+        image: 'cld-sample-5', 
         name: 'John Doe',
         position: 'Software Engineer',
         skills: ['JavaScript', 'React', 'Node.js']
     },
     {
-        image: 'https://www.worldphoto.org/sites/default/files/default-media/Piercy.jpg', 
+        image: '360_F_444539901_2GSnvmTX14LELJ6edPudUsarbcytOEgj_tegyi8', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://www.worldphoto.org/sites/default/files/default-media/Piercy.jpg', 
+        image: 'Piercy_gmiayk', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://www.worldphoto.org/sites/default/files/default-media/Piercy.jpg', 
+        image: '1-intro-photo-final_huayea', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?cs=srgb&dl=pexels-olly-762020.jpg&fm=jpg', 
+        image: '1-intro-photo-final_huayea', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://www.worldphoto.org/sites/default/files/default-media/Piercy.jpg', 
+        image: 'Piercy_gmiayk', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://www.worldphoto.org/sites/default/files/default-media/Piercy.jpg', 
+        image: '1-intro-photo-final_huayea', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://img.freepik.com/free-photo/portrait-young-woman-with-natural-make-up_23-2149084942.jpg', 
+        image: 'Piercy_gmiayk', 
         name: 'John Doe',
         position: 'Software Engineer',
         skills: ['JavaScript', 'React', 'Node.js']
     },
     {
-        image: 'https://www.worldphoto.org/sites/default/files/default-media/Piercy.jpg', 
+        image: '1-intro-photo-final_huayea', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://img.freepik.com/free-photo/portrait-young-woman-with-natural-make-up_23-2149084942.jpg', 
+        image: 'Piercy_gmiayk', 
         name: 'John Doe',
         position: 'Software Engineer',
         skills: ['JavaScript', 'React', 'Node.js']
     },
     {
-        image: 'https://www.worldphoto.org/sites/default/files/default-media/Piercy.jpg', 
+        image: '1-intro-photo-final_huayea', 
         name: 'Jane Smith',
         position: 'Product Manager',
         skills: ['Agile', 'Scrum', 'Product Roadmap']
     },
     {
-        image: 'https://img.freepik.com/free-photo/portrait-young-woman-with-natural-make-up_23-2149084942.jpg', 
+        image: 'Piercy_gmiayk', 
         name: 'John Doe',
         position: 'Software Engineer',
         skills: ['JavaScript', 'React', 'Node.js']

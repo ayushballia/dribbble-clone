@@ -47,9 +47,9 @@ export default function Navbar() {
         </button>
       </div>
 
-      <div className={`flex-col md:flex-row md:flex md:gap-8 ${isOpen ? 'flex z-10 absolute top-5 right-0' : 'hidden'} md:items-center`}>
+      <div className={`flex-col md:flex-row md:flex md:gap-8 ${isOpen ? 'flex h-full absolute top-10 right-0' : 'hidden'} md:items-center`}>
         <ul className="flex flex-col md:flex-row md:items-center gap-4 md:gap-8">
-          <li className="lg:group">
+          <li className="group">
             <a href="/" className="flex items-center">
               Find designers
               <svg
